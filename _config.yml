@@ -47,9 +47,6 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
-  posts:
-    output: true
-    permalink: /:collection/:path/
 
 page_width: 800px
 
