@@ -1,6 +1,6 @@
 ---
 title: GnosisDAO Grant Request Phase 1 Incentive Proposal
-author: boilerrat
+author: [bau, boilerrat, jekl]
 date: 2022-07-16
 category: Grants
 layout: post
