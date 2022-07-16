@@ -1,8 +1,8 @@
 ---
-title: Design Draft
-author: Tao He
-date: 2022-02-06
-category: Jekyll
+title: Radicle Application
+author: Boilerrat
+date: 2022-07-16
+category: Grant Application
 layout: post
 tags: Grants
 ---
