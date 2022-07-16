@@ -7,7 +7,6 @@
   tag: Grants
   ---
 
-# Support DAOhaus Grants
 
 [![hackmd-github-sync-badge](https://hackmd.io/GLPhZrUhTRGBd8rOBCh18A/badge)](https://hackmd.io/GLPhZrUhTRGBd8rOBCh18A)
 
