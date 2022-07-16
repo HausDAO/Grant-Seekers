@@ -39,9 +39,3 @@ https://docs.google.com/spreadsheets/d/1Z_ckv90nYo--ITXMaJs9fgmgFJ7y4zeYsAKWGKXs
 
 Figjam supporting Grants Applications:
 https://www.figma.com/file/7eynq86yXsLCZz2pmIecWM/Grant-Applications?node-id=0%3A1
-
-
-
-
-
-
