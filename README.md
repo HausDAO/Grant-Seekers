@@ -12,15 +12,14 @@ It is made in the style of a gitbook that uses jekyll, therefore the "book" can 
 Pages are located in _pages directory
 The following must be added to each page created in order for jekyll to recognize the document and render it as a webpage:
 ```  
-  ---
-  title: Grant Application
-  author: boilerrat
-  date: 2022-05-24
-  category: Application
-  layout: post
-+ cover: /assets/jekyll-gitbook/dinosaur.gif
-  tag: Grants
-  ---
+---
+title: Grants
+author: Boilerrat
+date: 2022-07-16
+category: Application
+layout: post
+tags: Grants
+---
 ```
 If you do not have a cover image, you may delete the "cover" line.
 
