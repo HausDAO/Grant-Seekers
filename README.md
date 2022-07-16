@@ -3,7 +3,7 @@ layout: home
 title: DAOhaus Grant Seekers
 permalink: /
 ---
-# DAOhaus Grant Seekers
+
 ## How to contribute to this repo:
 
 This repo is to track, research and prepare grants to support DAOhaus as a public good.
