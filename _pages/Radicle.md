@@ -1,5 +1,13 @@
+---
+title: Radicle Application
+author: Boilerrat
+date: 2022-07-16
+category: Grant Application
+layout: post
+tags: Grants
+---
+
 [![hackmd-github-sync-badge](https://hackmd.io/-p1AssZBTvOxENTrNWWhUA/badge)](https://hackmd.io/-p1AssZBTvOxENTrNWWhUA)
-###### tags: `Grants`
 
 # Radicle Grant Application
                                  
