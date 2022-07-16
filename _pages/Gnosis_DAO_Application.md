@@ -1,7 +1,11 @@
 ---
-tags: Grants
 title: GnosisDAO Grant Request Phase 1 Incentive Proposal
+author: boilerrat
+date: 2022-07-16
+category: Grants
+layout: post
 ---
+###### Grants
 
 # Should GnosisDAO Partner with DAOhaus to Support DAO tooling on Gnosis Chain?
 
