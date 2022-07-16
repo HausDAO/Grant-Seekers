@@ -24,6 +24,6 @@ tags: [Grants, In progress, Complete, etc]
 If you do not have a cover image, you may delete the "cover" line.
 
 Categories Should be one of the following:
-+ Meeting Notes
++ Meeting
 + Application
 + Information
