@@ -1,4 +1,9 @@
 ---
+title: Grants Meeting 15 July 2022
+author: Boilerrat
+date: 2022-07-15
+category: Meeting
+layout: post
 tags: Grants
 ---
 
