@@ -2,7 +2,7 @@
 title: Support DAOhaus Grants
 author: Bau
 date: 2022-07-16
-category: Grant Application
+category: Post
 layout: post
 tags: Grants
 ---
