@@ -18,9 +18,12 @@ author: Boilerrat
 date: 2022-07-16
 category: Application
 layout: post
-tags: Grants
+tags: [Grants, In progress, Complete, etc]
 ---
 ```
 If you do not have a cover image, you may delete the "cover" line.
 
-Meeting notes or other "blog" style enteries will follow the same format for metadata as above, however these type of posts can be placed in the _posts directory
+Categories Should be one of the following:
++ Meeting Notes
++ Application
++ Information
