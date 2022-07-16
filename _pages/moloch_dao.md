@@ -1,4 +1,9 @@
 ---
+title: Moloch DAO
+author: [Boilerrat, Travis Wyche, E2T, BorrowLucid]
+date: 2022-07-16
+category: Application
+layout: post
 tags: Grants
 ---
 
