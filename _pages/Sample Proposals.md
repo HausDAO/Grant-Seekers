@@ -1,8 +1,11 @@
 ---
+title: Sample Proposals
+author: Boilerrat
+date: 2022-07-16
+category: Information
+layout: post
 tags: Grants
 ---
-
-# Sample Proposals
 
 This file is used as a reference of examples of grant proposals
 
