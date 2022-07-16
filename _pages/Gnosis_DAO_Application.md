@@ -1,18 +1,19 @@
 ---
-title: GnosisDAO Grant Request Phase 1 Incentive Proposal
-author: boilerrat
+title: Should GnosisDAO Partner with DAOhaus to Support DAO tooling on Gnosis Chain?
+author: [bau, boilerrat, jekl]
 date: 2022-07-16
 category: Grants
 layout: post
+tags: Grants
 ---
-###### Grants
+
 
 # Should GnosisDAO Partner with DAOhaus to Support DAO tooling on Gnosis Chain?
 
 [![hackmd-github-sync-badge](https://hackmd.io/gguUGkaRSJ6JgdBKsFEw5Q/badge)](https://hackmd.io/gguUGkaRSJ6JgdBKsFEw5Q)
 
 
-`phase-1`
+`phase-2`
 
 # Summary
 
