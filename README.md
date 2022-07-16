@@ -2,6 +2,7 @@
 layout: home
 title: DAOhaus Grant Seekers
 permalink: /
+tags: Grants
 ---
 
 ## How to contribute to this repo:
