@@ -1,6 +1,11 @@
----
-tags: Grants
----
+  ---
+  title: Support DAOhaus Grants
+  author: Bau
+  date: 2022-07-01
+  category: Post
+  layout: post
+  tag: Grants
+  ---
 
 # Support DAOhaus Grants
 
