@@ -1,8 +1,13 @@
 ---
+title: Support DAOhaus Grants
+author: Bau
+date: 2022-07-16
+category: Post
+layout: post
 tags: Grants
 ---
 
-# Support DAOhaus Grants
+
 
 [![hackmd-github-sync-badge](https://hackmd.io/GLPhZrUhTRGBd8rOBCh18A/badge)](https://hackmd.io/GLPhZrUhTRGBd8rOBCh18A)
 
