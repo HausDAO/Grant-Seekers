@@ -15,7 +15,7 @@ The following must be added to each page created in order for jekyll to recogniz
 ```  
 ---
 title: Grants
-author: Boilerrat
+author: [Boilerrat, Jerry Garcia]
 date: 2022-07-16
 category: Application
 layout: post
