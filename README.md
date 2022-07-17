@@ -28,3 +28,7 @@ Categories Should be one of the following:
 + Meeting
 + Application
 + Information
+
+Other important files that aren't markdowm can just be placed in the readme for now unitl such time there ae enough to need a file of their own.
++ [Google Sheet](https://docs.google.com/spreadsheets/d/1Z_ckv90nYo--ITXMaJs9fgmgFJ7y4zeYsAKWGKXsp1U/edit?usp=sharing)
++ [Figma File](https://www.figma.com/file/7eynq86yXsLCZz2pmIecWM/Grant-Applications?node-id=0%3A1)
