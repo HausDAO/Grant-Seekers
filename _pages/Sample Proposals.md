@@ -1,5 +1,5 @@
 ---
-title: Sample Proposals
+title: Proposal Writing Aide
 author: Boilerrat
 date: 2022-07-16
 category: Information
@@ -7,11 +7,11 @@ layout: post
 tags: Grants
 ---
 
-This file is used as a reference of examples of grant proposals
+## Proposal Samples
 
-## Gnosis DAO
+### Gnosis DAO
 
-### Phase 1
+#### Phase 1
 
 + [Hydra Ventures DAO](https://forum.gnosis.io/t/should-gnosisdao-invest-in-hydra-ventures-dao/5477)
 + [Circles UBI R&D](https://forum.gnosis.io/t/should-gnosisdao-fund-circles-ubi-r-d-work-a-web-of-trust-dapp-for-gnosis-safe-ubi-as-public-goods/4936)
@@ -19,15 +19,14 @@ This file is used as a reference of examples of grant proposals
 + [Free web3 Education](https://forum.gnosis.io/t/should-we-make-web3-education-free-for-students/5361)
 + [Web3 El Musical Tour](https://forum.gnosis.io/t/should-we-make-web3-education-free-for-students/5361)
 
+#### Phase 2
 
-### Phase 2
- + [Circles UBI R&D](https://forum.gnosis.io/t/gip-59-should-gnosisdao-fund-circles-ubi-r-d-work/5475)
- + [zkSnark](https://forum.gnosis.io/t/gip-59-should-gnosisdao-fund-circles-ubi-r-d-work/5475)
- + [Safe DAO](https://forum.gnosis.io/t/gip-29-spin-off-safedao-and-launch-safe-token/3476)
- + [Gnosis Ecosystem Growth](https://forum.gnosis.io/t/gip-38-should-gnosisdao-fund-a-gnosis-chain-ecosystem-growth-initiative/4717)
- + [Cryptorock Tour](https://forum.gnosis.io/t/gip-53-should-gnosisdao-sponsor-necromorfos-cryptorock-tour-2022/5314) 
++ [Circles UBI R&D](https://forum.gnosis.io/t/gip-59-should-gnosisdao-fund-circles-ubi-r-d-work/5475)[zkSnark](https://forum.gnosis.io/t/gip-59-should-gnosisdao-fund-circles-ubi-r-d-work/5475)
++ [Safe DAO](https://forum.gnosis.io/t/gip-29-spin-off-safedao-and-launch-safe-token/3476)
++ [Gnosis Ecosystem Growth](https://forum.gnosis.io/t/gip-38-should-gnosisdao-fund-a-gnosis-chain-ecosystem-growth-initiative/4717)
++ [Cryptorock Tour](https://forum.gnosis.io/t/gip-53-should-gnosisdao-sponsor-necromorfos-cryptorock-tour-2022/5314)
 
-## Moloch DAO
+### Moloch DAO
 
 + [Ethereum Cat Herders](https://forum.daohaus.club/t/mgp-april-2022-ethereum-cat-herders/10889)
   + [Results](https://app.daohaus.club/dao/0x1/0x519f9662798c2e07fbd5b30c1445602320c5cf5b/proposals/15)
@@ -38,10 +37,22 @@ This file is used as a reference of examples of grant proposals
 + [Charon](https://forum.daohaus.club/t/grant-proposal-charon/11116)
   + Not on chain yet  
 
-## Radicle
+### Radicle
+
 + [Yield Gate](https://radicle.community/t/yieldgate-grant-application/2848)
 + [OurTube](https://radicle.community/t/ourtube-grant-application/2934)
 + [Radicle IDE Plugins](https://radicle.community/t/application-radicle-ide-plugins-ux-design/2728)
 + [ETHAnglia](https://radicle.community/t/ethanglia-0-to-web3/2688)
 
+### BitDAO
 
+#### Soft Proposals
+
++ [Support Leveraged LP Farming on UniV3](https://discourse.bitdao.io/t/discussion-support-leveraged-lp-farming-on-univ3/2645)
++ [Continent DAO - Bringing Mass Adoption to BIT](https://discourse.bitdao.io/t/discussion-continent-dao-bringing-mass-adoption-to-bit/1434)
++ [Giveth](https://discourse.bitdao.io/t/discussion-bitdao-x-giveth-the-future-of-giving/2487)
++ [humanDAO](https://discourse.bitdao.io/t/discussion-humandao-x-bitdao/1774)
+
+## Education
+
+[Proposal Writing Websites](https://researchguides.library.wisc.edu/proposalwriting/websites)
