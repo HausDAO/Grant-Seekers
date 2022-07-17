@@ -7,7 +7,7 @@ tags: Grants
 
 ## How to contribute to this repo:
 
-This repo is to track, research and prepare grants to support DAOhaus as a public good.
+This [repo](https://github.com/boilerrat/Grant-Seekers) is to track, research and prepare grants to support DAOhaus as a public good.
 
 It is made in the style of a gitbook that uses jekyll, therefore the "book" can be updated with markdown files.
 Pages are located in _pages directory
