@@ -53,6 +53,17 @@ tags: Grants
 + [Giveth](https://discourse.bitdao.io/t/discussion-bitdao-x-giveth-the-future-of-giving/2487)
 + [humanDAO](https://discourse.bitdao.io/t/discussion-humandao-x-bitdao/1774)
 
+#### Proposals
+
++ Pleasr DAO
+  + [long form proposal](https://drive.google.com/file/d/1P-VN4Ej0BV-2fBzQ6N3qduwhWWhZiCLT/view)
+  + [snapshot](https://snapshot.org/#/bitdao.eth/proposal/0xc5764508ad0a29ed646316197686f661bee472fd5ab0517938bf039a3e82f53e)
+  + [ipfs](https://bafybeig55mzponyatsjq2di6wfbcrxhd5aou4ltvefoxpguqjgxym7ak6a.ipfs.infura-ipfs.io/)
++ zkDAO
+  + [long form proposal](https://docs.google.com/document/d/1a5crhI-PDqovcOTtr67XRE_94AU6NR6nP4QfbuB5tKQ/edit)
+  + [snapshot](https://snapshot.org/#/bitdao.eth/proposal/0x7f1ec601bf9d95855a38b141a3d393e41ae12be4ccba4c5615b6b6ec0261a844)
+  + [ipfs](https://bafybeibbnx7kxsv62v5ivzvvp2andehabprq6ksut2hqk3wspgjvv333q4.ipfs.infura-ipfs.io/)
+
 ## Education
 
 [Proposal Writing Websites](https://researchguides.library.wisc.edu/proposalwriting/websites)
