@@ -2,7 +2,7 @@
 title: Should GnosisDAO Partner with DAOhaus to Support DAO tooling on Gnosis Chain?
 author: [bau, boilerrat, jekl]
 date: 2022-07-16
-category: Grants
+category: Application
 layout: post
 tags: Grants
 ---
