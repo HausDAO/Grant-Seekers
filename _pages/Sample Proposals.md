@@ -34,5 +34,14 @@ This file is used as a reference of examples of grant proposals
 + [Black Sky Nexus](https://forum.daohaus.club/t/mgp-apr-2022-black-sky-nexus/10907)
   + [Results](https://app.daohaus.club/dao/0x1/0x519f9662798c2e07fbd5b30c1445602320c5cf5b/proposals/14)
 + [grantr.app](https://forum.daohaus.club/t/grant-proposal-grantr-app/11203)
-  + No on chain proposal
-+ [] 
+  + Not on chain yet
++ [Charon](https://forum.daohaus.club/t/grant-proposal-charon/11116)
+  + Not on chain yet  
+
+## Radicle
++ [Yield Gate](https://radicle.community/t/yieldgate-grant-application/2848)
++ [OurTube](https://radicle.community/t/ourtube-grant-application/2934)
++ [Radicle IDE Plugins](https://radicle.community/t/application-radicle-ide-plugins-ux-design/2728)
++ [ETHAnglia](https://radicle.community/t/ethanglia-0-to-web3/2688)
+
+
