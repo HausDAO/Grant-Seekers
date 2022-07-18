@@ -78,6 +78,7 @@ tags: Grants
 + [BitDAO](https://www.bitdao.io/)
 + [Cult DAO](https://cultdao.io/)
 + [Ethereum Ecosystem Support](https://esp.ethereum.foundation/)
++ [Gitcoin](https://gitcoin.co/)
 + [Giveth](https://giveth.io/)
 + [Gnosis DAO](https://forum.gnosis.io/t/readme-gnosisdao-governance-process/736)
 + [grantr.app](https://grantr.app/)  Nice App with up to date information on Web 3 grant providers.
@@ -89,3 +90,8 @@ tags: Grants
 + [Protocol Labs](https://grants.protocol.ai/)
 + [Questbook](https://t.co/f7O4zCHFqc)
 + [web3 Grants](https://docs.google.com/forms/d/e/1FAIpQLSdKfM-cfk_LYFxvm7Ci0UwaqVUQ65AZ9K6_TtrlIVZFQaNVxw/viewform)
+
+## Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T3ChPs_WO_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKvihXi0xW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
