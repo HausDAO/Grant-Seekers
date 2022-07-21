@@ -7,6 +7,10 @@ layout: post
 tags: Grants
 ---
 
+## Education
+
+[Proposal Writing Websites](https://researchguides.library.wisc.edu/proposalwriting/websites)
+
 ## Proposal Samples
 
 ### Gnosis DAO
@@ -33,9 +37,7 @@ tags: Grants
 + [Black Sky Nexus](https://forum.daohaus.club/t/mgp-apr-2022-black-sky-nexus/10907)
   + [Results](https://app.daohaus.club/dao/0x1/0x519f9662798c2e07fbd5b30c1445602320c5cf5b/proposals/14)
 + [grantr.app](https://forum.daohaus.club/t/grant-proposal-grantr-app/11203)
-  + Not on chain yet
 + [Charon](https://forum.daohaus.club/t/grant-proposal-charon/11116)
-  + Not on chain yet  
 
 ### Radicle
 
@@ -64,6 +66,32 @@ tags: Grants
   + [snapshot](https://snapshot.org/#/bitdao.eth/proposal/0x7f1ec601bf9d95855a38b141a3d393e41ae12be4ccba4c5615b6b6ec0261a844)
   + [ipfs](https://bafybeibbnx7kxsv62v5ivzvvp2andehabprq6ksut2hqk3wspgjvv333q4.ipfs.infura-ipfs.io/)
 
-## Education
+## Smart Contracts
 
-[Proposal Writing Websites](https://researchguides.library.wisc.edu/proposalwriting/websites)
++ [OptimisticGrants.sol](https://docs.element.fi/governance-council/council-protocol-smart-contracts/optimistic-grants)
++ [OptimisticRewards.sol](https://docs.element.fi/governance-council/council-protocol-smart-contracts/optimistic-rewards)
+
+## Who Gives Out Grants and Funding Opportunties
+
++ [DAOHaus Spreadsheet](https://docs.google.com/spreadsheets/d/1Z_ckv90nYo--ITXMaJs9fgmgFJ7y4zeYsAKWGKXsp1U/edit?usp=sharing)  Tracking potential leads.
++ [Alchemy WAGMI Grants](https://www.alchemy.com/developer-grant-program)
++ [BitDAO](https://www.bitdao.io/)
++ [Cult DAO](https://cultdao.io/)
++ [Ethereum Ecosystem Support](https://esp.ethereum.foundation/)
++ [Gitcoin](https://gitcoin.co/)
++ [Giveth](https://giveth.io/)
++ [Gnosis DAO](https://forum.gnosis.io/t/readme-gnosisdao-governance-process/736)
++ [grantr.app](https://grantr.app/)  Nice App with up to date information on Web 3 grant providers.
++ [The Graph](https://www.notion.so/The-Graph-Foundation-e822e66d7b614fdd899a647f5db51a68)
++ [Hyperscale Fund](https://www.hyperscalefund.com/)
++ [Meta Cartel](https://www.metacartel.org/grants)
++ [Moloch DAO](https://molochdao.gitbook.io/handbook/grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/application)
++ [Optimism](https://gov.optimism.io/c/proposals/38)
++ [Protocol Labs](https://grants.protocol.ai/)
++ [Questbook](https://t.co/f7O4zCHFqc)
++ [web3 Grants](https://docs.google.com/forms/d/e/1FAIpQLSdKfM-cfk_LYFxvm7Ci0UwaqVUQ65AZ9K6_TtrlIVZFQaNVxw/viewform)
+
+## Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T3ChPs_WO_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKvihXi0xW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

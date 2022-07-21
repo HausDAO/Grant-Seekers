@@ -7,11 +7,7 @@ layout: post
 tags: Grants
 ---
 
-
-# Should GnosisDAO Partner with DAOhaus to Support DAO tooling on Gnosis Chain?
-
 [![hackmd-github-sync-badge](https://hackmd.io/gguUGkaRSJ6JgdBKsFEw5Q/badge)](https://hackmd.io/gguUGkaRSJ6JgdBKsFEw5Q)
-
 
 `phase-2`
 
@@ -69,6 +65,3 @@ Together with Gnosis DAO, we will enlist a council making up stakeholders from b
 The council will fund communities or projects that are using DAOhaus on Gnosis Chain. 
 
 In order to receive funding, projects must clearly articulate through a RFP (Request For Proposal) how their product or service will serve to benefit one of the 4 objectives outlined above, with concrete deliverables and timelines expressed in the proposal using [this template](https://hackmd.io/TMrV7ad-RMCtQ5xkKOnKhQ?view).
-
-
-
