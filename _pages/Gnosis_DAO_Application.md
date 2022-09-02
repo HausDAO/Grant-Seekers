@@ -7,15 +7,17 @@ layout: post
 tags: Grants
 ---
 
+### This application was not used or submited. Kept for learning purposes.
+
 [![hackmd-github-sync-badge](https://hackmd.io/gguUGkaRSJ6JgdBKsFEw5Q/badge)](https://hackmd.io/gguUGkaRSJ6JgdBKsFEw5Q)
 
 `phase-2`
 
-# Summary
+## Summary
 
 DAOhaus wants to initiate a partnership with GnosisDAO granting 1,000,000 Loot (~10,000 HAUS) to GnosisDAO in [UberHaus](https://app.daohaus.club/dao/0x64/0x0179fe4758fbec1124995a0cee7b1e713d34bc36) in exchange for $1M USD equivalent in staked GNO to UberHaus.
 
-# Abstract/Description
+## Abstract/Description
 
 DAOhaus provides purpose driven communities on Gnosis Chain an open and free to use no-code platform for launching and managing their [Moloch DAOs](https://twitter.com/nowdaoit/status/1521542721948708864?s=20&t=oNs90kv7rIWWe20UYfOCyA). 
 
@@ -27,7 +29,7 @@ We believe Gnosis Chain supplements the cultural relevance of Ethereum and is ap
 
 ~~Some notable DAOs have built and integrated important tools on Gnosis Chain, like OmniBridge built in collaboration with RaidGuild, or [Gnosis Zodiac](https://daohaus.substack.com/p/-daohaus-adopts-zodiac-to-enable?r=n395&utm_campaign=post&utm_medium=web&utm_source=copy&s=w) with the help of GnosisPM, DAOhaus, and MintyDAO.~~ 
 
-# Motivation/Rationale
+## Motivation/Rationale
 
 We have been referencing Gnosis Chain as "DAO chain" for the better part of a year, and it is safe to say that DAOhaus calls Gnosis Chain home. All of our core operations take place on Gnosis Chain, and DAOhaus has provided DAOs on Gnosis Chain with excellent tooling, bug maintenance, support, as well as a seamless UX - thanks to the low tx costs & throughput.
 
@@ -45,7 +47,7 @@ The learnings from our partnership and subsequent collaborations could act as a 
 
 If passed, both DAOhaus and GnosisDAO will enter into an incredibly positive and mutually reinforcing collaboration that will sustain growth across the Gnosis Chain ecosystem for years to come. 
 
-# Specification
+## Specification
 
 Together with Gnosis DAO, we will enlist a council making up stakeholders from both Gnosis and DAOhaus to distribute funds toward each of the initiatives outlined in the [Budget Breakdown](https://docs.google.com/spreadsheets/d/1vYvmuKLHJryvXdtnw5MVUeFoWcfMiNEEqBrA-u19E-4/edit#gid=0), funding which will be allocated over the course of 6-12 months.
 
