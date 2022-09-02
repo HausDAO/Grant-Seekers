@@ -1,5 +1,5 @@
 ---
-title: Gitcoin
+title: Gitcoin Application
 author: [Boilerrat, Kagami, Borrow Lucid]
 date: 2022-08-29
 category: Application
