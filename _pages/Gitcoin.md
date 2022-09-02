@@ -1,6 +1,10 @@
 ---
 title: Gitcoin
-tags: Grants
+author: [Boilerrat, Kagami, Borrow Lucid]
+date: 2022-08-29
+category: Application
+layout: post
+tags: [Grants, Complete]
 ---
 
 ## Project Description
