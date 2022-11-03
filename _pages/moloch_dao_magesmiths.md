@@ -7,17 +7,17 @@ layout: post
 tags: Grants
 ---
 
-# MolochDAO Magesmiths Grant, Aug 2022
+## MolochDAO Magesmiths Grant, Aug 2022
 
 [![hackmd-github-sync-badge](https://hackmd.io/ndfEo63QTXeKO_Wcj0zPDQ/badge)](https://hackmd.io/ndfEo63QTXeKO_Wcj0zPDQ)
 
 
-## Project Title
+### Project Title
 
 DAOhaus: Magesmiths v3 Implementation
 
 
-## Description 
+### Description 
 ![](https://i.imgur.com/Sq71aWQ.jpg)
 
 **We envision a future where any human community can achieve its collective purpose while reinforcing the full sovereignty of individual members. We are building the technological and cultural tools that empower communities to do so.**
@@ -45,7 +45,7 @@ The community is value aligned, but the v3 contracts aren’t integrated.
 
 
 
-## Problem
+### Problem
 
 There is a tension between **Flexibility, Usability, and Decentralization.** Purpose-driven communities demand:
 - Infrastructure and tools that meet their specific coordination and operation needs.
@@ -58,7 +58,7 @@ Web3 applications require rigorous security auditing to ensure the safety of the
 
 If we are going to realize our goal while also compensating the incredible team dedicated to executing the build, we will need the support for MolochDAO.
 
-## Solution
+### Solution
 
 **Our focus is on DAOs that empower communities of humans to achieve shared purpose.**
 - DAOs empowering humans, not humans supporting protocols
@@ -72,7 +72,7 @@ We are requesting a grant to serve as an emergency relief fund to support our bu
 We are also seeking support from other organizations in the ecosystem, including Radicle, Protocol Labs, Gitcoin GR15, Gnosis DAO, BitDAO, and others.
 
 
-## Product Features
+### Product Features
 ![](https://i.imgur.com/QpIbUNZ.jpg)
 ![](https://i.imgur.com/8sgoAZB.jpg)
 
@@ -96,10 +96,10 @@ Our libraries are structured to be consumed by our apps as well as used by exter
     - Tx Builder
 ![We will create a more simplified version of this diagram](https://i.imgur.com/yWApuKb.jpg)
 
-## Validation
+### Validation
 ![](https://i.imgur.com/kXcSONf.jpg)
 
-### 10 DAOs Summoned on DAOhaus
+#### 10 DAOs Summoned on DAOhaus
 
 | Name                   | Members | Treasury Value |
 | ---------------------- | ------- | -------------- |
@@ -116,7 +116,7 @@ Our libraries are structured to be consumed by our apps as well as used by exter
 
 *NOTE: The above values is representative of only the main treasury of each DAO and does not include the token values held in minion vaults.*
 
-### Communities Affected by DAOHaus
+#### Communities Affected by DAOHaus
 * **groundw3rk**: A network of DAO operators formed for the purpose of building stronger relationships.
 * **Kokonut Network** is currently in the process of planting 10's of thousands of Koknut trees in a community managed coconut farm.
 *  **Banyan DAO** Promoting human flourishing by empowering a community of entrepreneurial leaders.
@@ -124,10 +124,10 @@ Our libraries are structured to be consumed by our apps as well as used by exter
 
 
 
-### Integrations with Moloch
+#### Integrations with Moloch
 MetaCartel, RaidGuild, MetaGammaDelta, etc.
 
-### Social Impact on the DAO Ecosystem
+#### Social Impact on the DAO Ecosystem
 
 DAOhaus' social impact extends beyond the core application of moloch DAO contracts. We are also advocates and influncers in the DAO space. 
 #### Twitter
@@ -160,7 +160,7 @@ Our Discord currently has 5,663 users. Discord is our prime means of internal co
 It also gives us opportunity to provide workshops for the community in topics such as DAO summining and how to create Boosts for your DAO. We are also able to connect with community members and developers in order to create topic channels of discussion for how to integrate effectively with a Moloch DAO using DAOhaus tools.
 [Discord Invite](https://discord.gg/3drjHWWcRa)
 
-## Progress
+### Progress
 (requires a Magesmith meeting to roadmap July-Dec)
 ![](https://i.imgur.com/UbpaS43.jpg)
 
@@ -186,16 +186,16 @@ Goals for After MCON (Sep-Dec)
 ```
 
 
-## Differentiation (from other projects)
-### Tribute DAO
+### Differentiation (from other projects)
+#### Tribute DAO
 Tribute DAO is another moloch DAO framework which pays "tribute" to moloch DAO and have team members who were involed with moloch v2.
 In this aspect they are similiar to DAOhaus and like DAOhaus have also created a number of "adaptors" to add additional functionality for a DAO.
 Where DAOhaus differs from Tribute DAO is in the "no-code" aspect, which allows for a much higher adoption rate due to the ease of creating a DAO.
 
-### Kali DAO
+#### Kali DAO
 This is another DAO protocol which draws inspiration from Moloch DAOs and people summoning a DAO on Kali DAO that are familiar with DAOhaus would immediately see some similarities. One key difference is Kali DAO is designed around creating a legal framework around the DAO. DAOhaus does not attempt to form legal wrappers around user created DAOs and feel that can be done by a DAO if they choose to do so. Not all DAOs need to establishe a legal company.
 
-### Colony
+#### Colony
 Colony is the first one that does not have any similarities to Moloch DAOs per say. What really differentiates Colony is a built-in reputation system for the DAO.
 While Moloch DAOs do not have built-in reputation systems, as part of the ongoing V3 development our plan is to allow users and developers the tools to build custom solutions. There have been ongoing discussions with developing protocols for how to integrate tools they would like to build on top of the DAOhaus stack.
 
@@ -229,19 +229,19 @@ https://docs.google.com/spreadsheets/d/1KrDlaP1s6NkHtdrykfdysJQEcX-e1eJmDKQowebT
 
 
 
-## Grant Request $
+### Grant Request $
 (Let's gather sentiment from the DAO)
 - $102k per month x4 months for the current Magesmiths team
 - $90k Quantstamp security audit - **add the official quote from Billw**
 - Total: $498k
 
 
-## What the Funds Are For 
+### What the Funds Are For 
 - Ensure the public release of DAOhaus V3 Beta, ETA September 2022
 - Provide 4 months after public release to run support, supplement the documentation, and iterate on major features, September-December 2022
 - Most of the funds will be used to compensate contributors to push the polished v3 product over the finish line, ETC December 2022
 - This grant will also pay for a security audit to prepare the product for mass release
 
-## Additional Resources, Links, Portfolio
+### Additional Resources, Links, Portfolio
 
 [Github Monorepo](https://github.com/HausDAO/daohaus-monorepo)
