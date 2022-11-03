@@ -1,5 +1,5 @@
 ---
-title: DAOhaus Moloch DAO Response to Application
+title: Moloch_DAO_Response_to_Application
 author: [Boilerrat, Kagami]
 date: 2022-07-16
 category: Application
