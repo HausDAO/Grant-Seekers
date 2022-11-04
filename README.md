@@ -4,7 +4,7 @@ title: DAOhaus Grant Seekers
 permalink: /
 tags: Grants
 ---
-<img src="https://ipfs.io/ipns/k51qzi5uqu5dhm2jhfbxacbbeo5xepgs21skmx0343lzfs9syiwpig6nst22uk" alt="Header_img"/>
+![Grant Seekers](Grant Seekers.png)
 
 ## How to contribute to this repo:
 
