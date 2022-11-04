@@ -4,6 +4,9 @@ title: DAOhaus Grant Seekers
 permalink: /
 tags: Grants
 ---
+<img src="https://ipfs.io/ipfs/QmcmKMf8bU7Brk23VTY2g9euMwkkkWgA4ZMZ52rVciucBx?filename=DALL%C2%B7E%202022-11-04%2012.41.26%20-%20A%20pirate%20on%20a%20pirate%20ship%20looking%20towards%20the%20shore%20through%20a%20telescope%2C%20by%20Lisa%20Frank%2C%20Unreal%20Engine%2C%20by%20Yaoy%20Kusama%2C%20Cartographic%2C%20Wildlife%20Photogra.png"
+     alt="Header_img"
+     />
 
 ## How to contribute to this repo:
 
