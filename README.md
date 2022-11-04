@@ -4,7 +4,7 @@ title: DAOhaus Grant Seekers
 permalink: /
 tags: Grants
 ---
-[Imgur](https://i.imgur.com/4gMxwsl.png)
+![](https://i.imgur.com/4gMxwsl.png)
 
 ## How to contribute to this repo:
 
