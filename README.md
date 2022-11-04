@@ -4,7 +4,8 @@ title: DAOhaus Grant Seekers
 permalink: /
 tags: Grants
 ---
-![Grant Seekers](grant seekers.png)
+[Imgur](https://i.imgur.com/4gMxwsl.png)
+
 ## How to contribute to this repo:
 
 This [repo](https://github.com/boilerrat/Grant-Seekers) is to track, research and prepare grants to support DAOhaus as a public good.
